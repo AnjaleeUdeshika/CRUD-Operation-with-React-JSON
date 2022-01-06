@@ -1,0 +1,153 @@
+[
+    {
+      "_id": "country1",
+      "index": 0,
+      "countryName": "Afghanistan",
+      "currency": "AFN Afghan Afghani",
+      "population": 38928346,
+      "flag":"https://cdn.britannica.com/40/5340-004-B25ED5CF/Flag-Afghanistan.jpg",
+      "flagUrl": "https://cdn.britannica.com/40/5340-004-B25ED5CF/Flag-Afghanistan.jpg",
+      "GDP": 55.1
+    },
+    {
+      "_id": "country2",
+      "index": 1,
+      "countryName": "Albania",
+      "currency": "ALL Albanian lek",
+      "population": 2877797,
+      "flag":"https://cdn.britannica.com/00/6200-004-42B7690E/Flag-Albania.jpg",
+      "flagUrl": "https://cdn.britannica.com/00/6200-004-42B7690E/Flag-Albania.jpg",
+      "GDP": 8.5
+    },
+    {
+      "_id": "country3",
+      "index": 2,
+      "countryName": "Algeria",
+      "currency": "DZD Algerian dinar",
+      "population": 43851044,
+      "flag":"https://cdn.britannica.com/34/3034-004-1A765B57/Flag-Algeria.jpg",
+      "flagUrl": "https://cdn.britannica.com/34/3034-004-1A765B57/Flag-Algeria.jpg",
+      "GDP": 7.6
+    },
+    {
+      "_id": "country4",
+      "index": 3,
+      "countryName": "American Samoa",
+      "currency": "USD US dollar",
+      "population": 77265,
+      "flag":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Flag_of_American_Samoa.svg/1200px-Flag_of_American_Samoa.svg.png",
+      "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Flag_of_American_Samoa.svg/1200px-Flag_of_American_Samoa.svg.png",
+      "GDP": 7
+    },
+    {
+      "_id": "country5",
+      "index": 4,
+      "countryName": "Andorra",
+      "currency": "EUR Euro",
+      "population": 32866272,
+      "flag":"https://cdn.britannica.com/83/5583-050-2F48FD32/Flag-Andorra.jpg",
+      "flagUrl": "https://cdn.britannica.com/83/5583-050-2F48FD32/Flag-Andorra.jpg",
+      "GDP": 6.8
+    },
+    {
+      "_id": "country6",
+      "index": 5,
+      "countryName": "Angola",
+      "currency": "AOA Angolan kwanza",
+      "population": 97929,
+      "flag":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Flag_of_Angola.svg/2560px-Flag_of_Angola.svg.png",
+      "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Flag_of_Angola.svg/2560px-Flag_of_Angola.svg.png",
+      "GDP": 6.7
+    },
+    {
+      "_id": "country7",
+      "index": 6,
+      "countryName": "Anguilla",
+      "currency": "XCD East Caribbean dollarr",
+      "population": 45195774,
+      "flag":"https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Anguilla.svg",
+      "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Anguilla.svg",
+      "GDP": 6.5
+    },
+    {
+      "_id": "country8",
+      "index": 7,
+      "countryName": "Antigua and Barbuda",
+      "currency": "XCD East Caribbean dollar",
+      "population": 2963243,
+      "flag":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Flag_of_Antigua_and_Barbuda.svg/640px-Flag_of_Antigua_and_Barbuda.svg.png",
+      "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Flag_of_Antigua_and_Barbuda.svg/640px-Flag_of_Antigua_and_Barbuda.svg.png",
+      "GDP": 6.4
+    },
+    {
+      "_id": "country9",
+      "index": 8,
+      "countryName": "Argentina",
+      "currency": "ARS Argentine peso",
+      "population": 25499884,
+      "flag":"https://cdn.britannica.com/69/5869-004-7D75CD05/Flag-Argentina.jpg",
+      "flagUrl": "https://cdn.britannica.com/69/5869-004-7D75CD05/Flag-Argentina.jpg",
+      "GDP": 6.2
+    },
+    {
+      "_id": "country10",
+      "index": 9,
+      "countryName": "Bahamas",
+      "currency": "BSD Bahamian dollar",
+      "population": 9006398,
+      "flag":"https://cdn.britannica.com/06/5106-004-B8EE9FD3/Flag-of-The-Bahamas.jpg",
+      "flagUrl": "https://cdn.britannica.com/06/5106-004-B8EE9FD3/Flag-of-The-Bahamas.jpg",
+      "GDP": 6
+    },
+    {
+      "_id": "country11",
+      "index": 10,
+      "countryName": "Armenia",
+      "currency": "AMD Armenian dram",
+      "population": 10139177,
+      "flag":"https://cdn.britannica.com/11/4711-004-1504C169/Flag-Armenia.jpg",
+      "flagUrl": "https://cdn.britannica.com/11/4711-004-1504C169/Flag-Armenia.jpg",
+      "GDP": 5.9
+    },
+    {
+      "_id": "country12",
+      "index": 11,
+      "countryName": "Bahrain",
+      "currency": "BHD Bahraini dinar",
+      "population": 393244,
+      "flag":"https://cdn.britannica.com/67/5767-004-E0FF7201/Flag-Bahrain.jpg",
+      "flagUrl": "https://cdn.britannica.com/67/5767-004-E0FF7201/Flag-Bahrain.jpg",
+      "GDP": 5.4
+    },
+    {
+      "_id": "country13",
+      "index": 12,
+      "countryName": "Aruba",
+      "currency": "AWG Aruban guilder",
+      "population": 1701575,
+      "flag":"https://cdn.britannica.com/54/69554-050-D246E82A/Flag-Aruba.jpg",
+      "flagUrl": "https://cdn.britannica.com/54/69554-050-D246E82A/Flag-Aruba.jpg",
+      "GDP": 5.3
+    },
+    {
+      "_id": "country14",
+      "index": 13,
+      "countryName": "Australia",
+      "currency": "AUD Australian dollar",
+      "population": 164689383,
+      "flag":"https://cdn.britannica.com/78/6078-004-77AF7322/Flag-Australia.jpg",
+      "flagUrl": "https://cdn.britannica.com/78/6078-004-77AF7322/Flag-Australia.jpg",
+      "GDP": 5
+    },
+    {
+      "_id": "country15",
+      "index": 14,
+      "countryName": "Austria",
+      "currency": "EUR Euro",
+      "population": 287375,
+      "flag":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/1024px-Flag_of_Austria.svg.png",
+      "flagUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/1024px-Flag_of_Austria.svg.png",
+      "GDP": 5
+    }
+
+  ]
