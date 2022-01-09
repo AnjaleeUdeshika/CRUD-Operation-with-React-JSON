@@ -22,6 +22,31 @@ body {
 }
 
 .App-link {
-  color: #2ad82a;
+  color: #d82ad8;
+}
+
+
+#inputGroupFile1{
+  background-color: rgb(161, 182, 228);
+}
+
+#inputGroupFile2{
+  background-color:darkgrey;
+}
+
+#inputGroupFile3{
+  background-color: rgb(148, 236, 210);
+}
+
+#inputGroupFile02{
+  background-color: rgb(230, 152, 233);
+}
+
+#inputGroupFile4{
+  background-color: darkturquoise;
+}
+
+#inputGroupFile5{
+  background-color: rgb(245, 224, 182);
 }
 
